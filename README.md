@@ -1,0 +1,1 @@
+patika bootstrap ödev 2 instagram clone yapıldı.
